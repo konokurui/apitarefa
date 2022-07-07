@@ -1,0 +1,54 @@
+{
+  "jojo": [
+      {
+          "id": 1,
+          "kira": "Kira Yoshigake",
+          "habikira": "Refaz o passado"
+          
+      },
+      {
+          "id": 2,
+          "jotaro": "Jotaro kujo",
+          "habijotaro": "Para o tempo"
+          
+          
+      },
+      {
+          "id": 3,
+          "dio": "Dio",
+          "habidio": "Para o tempo mais gay"
+         
+      
+          
+      },
+      {
+          "id": 4, 
+          "funny": "Funny Valantine",
+          "habifunny": "Viaja entre versoes dele mesmo por dimensoes"
+          
+          
+      },
+      {
+          "id": 5,
+          "pucci": "Pucci",
+          "habipucci": "Acelera o tempo e espaço fazendo o universo resetar"
+         
+          
+      },
+      {
+          "id": 6,
+          "diavolo": "Diavolo",
+          "habidiavolo": "Gay Mafioso"
+         
+         
+      }
+
+
+
+
+      
+
+
+      
+  ]
+}
